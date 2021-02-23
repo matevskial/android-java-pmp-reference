@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Android Java Reference</string>
+    <string name="app_name">Android Kotlin Reference</string>
+    <string name="generateButton">Generate random string</string>
+    <string name="defaultValueForGeneratedText">Click the button to change this text to a generated value</string>
+    <string name="constraintExampleButton">Constraint Layout Activity</string>
+    <string name="mainActivityTextView">Main activity</string>
 </resources>
