@@ -1,4 +1,4 @@
-package com.matevskial.androidjavareference;
+package com.matevskial.androidjavapmpreference;
 
 import android.content.Context;
 

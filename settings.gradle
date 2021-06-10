@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Android Java Reference"
+rootProject.name = "Android Java PMP Reference"

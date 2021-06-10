@@ -1,4 +1,4 @@
-package com.matevskial.androidjavareference;
+package com.matevskial.androidjavapmpreference;
 
 import androidx.appcompat.app.AppCompatActivity;
 
