@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private Button recyclerViewExampleButton;
     private Button intentExampleButton;
     private Button fragmentExampleButton;
+    private Button dialogsExampleButton;
 
     /**
      * Predefined methods like this are called for the setup of the activity
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerViewExampleButton = findViewById(R.id.recyclerViewExampleButton);
         intentExampleButton = findViewById(R.id.intentExampleButton);
         fragmentExampleButton = findViewById(R.id.fragmentExampleButton);
+        dialogsExampleButton = findViewById(R.id.dialogsExampleButton);
 
         constraintExampleButton.setOnClickListener(v -> {
             Intent intent = new Intent(this, ConstraintExampleActivity.class);
@@ -59,6 +61,11 @@ public class MainActivity extends AppCompatActivity {
 
         fragmentExampleButton.setOnClickListener(v -> {
             Intent intent = new Intent(this, FragmentExampleActivity.class);
+            startActivity(intent);
+        });
+
+        dialogsExampleButton.setOnClickListener(v -> {
+            Intent intent = new Intent(this, DialogsExampleActivity.class);
             startActivity(intent);
         });
     }

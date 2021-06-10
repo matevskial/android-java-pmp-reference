@@ -10,4 +10,10 @@
     <string name="startActivityButton">Start other activity with extra data</string>
     <string name="closeActivityButton">Close this activity</string>
     <string name="fragmentExampleButton">Fragment example activity</string>
+    <string name="dialogsExampleButton">Dialogs example activity</string>
+    <string name="titleTextView">Modify text</string>
+    <string name="positiveButton">Change</string>
+    <string name="negativeButton">Cancel</string>
+    <string name="showAlertDialogButton">Show alert dialog</string>
+    <string name="showCustomDialogButton">Show custom dialog</string>
 </resources>
