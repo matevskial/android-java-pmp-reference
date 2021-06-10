@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Java PMP референца</string>
+    <string name="generateButton">Генерирај случаен стринг</string>
+    <string name="defaultValueForGeneratedText">Кликни го копчето за да го смениш текстот со случајна вредност</string>
+    <string name="constraintExampleButton">Constraint Layout Activity</string>
+    <string name="mainActivityTextView">Main activity</string>
+    <string name="listViewExampleButton">ListView example activity</string>
+    <string name="recyclerViewExampleButton">RecyclerView example activity</string>
+    <string name="intentExampleButton">Intent example activity</string>
+    <string name="startActivityButton">Стартувај друг activity со дополнителни податоци</string>
+    <string name="closeActivityButton">Затвори го овој activity</string>
+    <string name="fragmentExampleButton">Fragment example activity</string>
+    <string name="dialogsExampleButton">Dialogs example activity</string>
+    <string name="titleTextView">Уреди текст</string>
+    <string name="positiveButton">Промени</string>
+    <string name="negativeButton">Отфрли</string>
+    <string name="showAlertDialogButton">Прикажи alert дијалог</string>
+    <string name="showCustomDialogButton">Прикажи рачно-програмиран дијалог</string>
+</resources>
