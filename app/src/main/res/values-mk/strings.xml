@@ -17,4 +17,6 @@
     <string name="negativeButton">Отфрли</string>
     <string name="showAlertDialogButton">Прикажи alert дијалог</string>
     <string name="showCustomDialogButton">Прикажи рачно-програмиран дијалог</string>
+    <string name="selectRandomEntryButton">Избери случаен запис</string>
+    <string name="sqliteExampleButton">SQLite example activity</string>
 </resources>

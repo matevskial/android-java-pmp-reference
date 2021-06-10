@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidJavaPMPReference">
+        <activity android:name=".SQLiteExampleActivity"></activity>
         <activity android:name=".DialogsExampleActivity" />
         <activity android:name=".FragmentExampleActivity" />
         <activity android:name=".CalledWithIntentActivity" />

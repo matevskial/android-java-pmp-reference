@@ -16,4 +16,6 @@
     <string name="negativeButton">Cancel</string>
     <string name="showAlertDialogButton">Show alert dialog</string>
     <string name="showCustomDialogButton">Show custom dialog</string>
+    <string name="selectRandomEntryButton">Select random entry</string>
+    <string name="sqliteExampleButton">SQLite example activity</string>
 </resources>
