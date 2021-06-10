@@ -4,4 +4,5 @@
     <string name="defaultValueForGeneratedText">Click the button to change this text to a generated value</string>
     <string name="constraintExampleButton">Constraint Layout Activity</string>
     <string name="mainActivityTextView">Main activity</string>
+    <string name="listViewExampleButton">ListView example activity</string>
 </resources>

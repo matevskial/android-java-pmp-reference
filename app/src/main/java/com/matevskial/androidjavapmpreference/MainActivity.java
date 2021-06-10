@@ -18,6 +18,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     private Button constraintExampleButton;
+    private Button listViewExampleButton;
 
     /**
      * Predefined methods like this are called for the setup of the activity
@@ -28,10 +29,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         constraintExampleButton = findViewById(R.id.constraintExampleButton);
+        listViewExampleButton = findViewById(R.id.listViewExampleButton);
 
         constraintExampleButton.setOnClickListener(v -> {
             Intent intent = new Intent(this, ConstraintExampleActivity.class);
             startActivity(intent);
         });
+
+        listViewExampleButton.setOnClickListener(v -> {
+            Intent intent = new Intent(this, ListViewExampleActivity.class);
+            startActivity(intent);
+        });
+
     }
 }

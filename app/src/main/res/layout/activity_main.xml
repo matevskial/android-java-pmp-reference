@@ -28,6 +28,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/constraintExampleButton" />
+
+            <Button
+                android:id="@+id/listViewExampleButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/listViewExampleButton" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

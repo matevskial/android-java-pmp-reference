@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidJavaPMPReference">
-        <activity android:name="com.matevskial.androidjavapmpreference.ConstraintExampleActivity"></activity>
-        <activity android:name="com.matevskial.androidjavapmpreference.MainActivity">
+        <activity android:name=".ListViewExampleActivity"></activity>
+        <activity android:name=".ConstraintExampleActivity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
