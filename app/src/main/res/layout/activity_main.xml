@@ -46,6 +46,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/intentExampleButton" />
+
+            <Button
+                android:id="@+id/fragmentExampleButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fragmentExampleButton" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

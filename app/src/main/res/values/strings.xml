@@ -9,4 +9,5 @@
     <string name="intentExampleButton">Intent example activity</string>
     <string name="startActivityButton">Start other activity with extra data</string>
     <string name="closeActivityButton">Close this activity</string>
+    <string name="fragmentExampleButton">Fragment example activity</string>
 </resources>
