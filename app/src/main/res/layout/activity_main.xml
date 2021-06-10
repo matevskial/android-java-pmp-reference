@@ -40,6 +40,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/recyclerViewExampleButton" />
+
+            <Button
+                android:id="@+id/intentExampleButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/intentExampleButton" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

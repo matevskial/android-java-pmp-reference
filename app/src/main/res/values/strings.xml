@@ -6,4 +6,7 @@
     <string name="mainActivityTextView">Main activity</string>
     <string name="listViewExampleButton">ListView example activity</string>
     <string name="recyclerViewExampleButton">RecyclerView example activity</string>
+    <string name="intentExampleButton">Intent example activity</string>
+    <string name="startActivityButton">Start other activity with extra data</string>
+    <string name="closeActivityButton">Close this activity</string>
 </resources>
