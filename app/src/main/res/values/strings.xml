@@ -20,4 +20,5 @@
     <string name="sqliteExampleButton">SQLite example activity</string>
     <string name="serviceExampleButton">Service example activity</string>
     <string name="startBigNumberServiceButton">Start service for big number</string>
+    <string name="notificationExampleButton">Show example notification</string>
 </resources>

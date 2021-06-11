@@ -70,6 +70,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/serviceExampleButton" />
+
+            <Button
+                android:id="@+id/notificationExampleButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/notificationExampleButton" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
