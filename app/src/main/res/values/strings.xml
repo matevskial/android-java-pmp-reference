@@ -18,4 +18,6 @@
     <string name="showCustomDialogButton">Show custom dialog</string>
     <string name="selectRandomEntryButton">Select random entry</string>
     <string name="sqliteExampleButton">SQLite example activity</string>
+    <string name="serviceExampleButton">Service example activity</string>
+    <string name="startBigNumberServiceButton">Start service for big number</string>
 </resources>

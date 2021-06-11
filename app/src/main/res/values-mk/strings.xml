@@ -19,4 +19,6 @@
     <string name="showCustomDialogButton">Прикажи рачно-програмиран дијалог</string>
     <string name="selectRandomEntryButton">Избери случаен запис</string>
     <string name="sqliteExampleButton">SQLite example activity</string>
+    <string name="serviceExampleButton">Service example activity</string>
+    <string name="startBigNumberServiceButton">Започни го сервисот за пресметка на голем број</string>
 </resources>

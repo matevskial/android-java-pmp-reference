@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidJavaPMPReference">
-        <activity android:name=".SQLiteExampleActivity"></activity>
+        <activity android:name=".ServiceExampleActivity"></activity>
+
+        <service
+            android:name=".CalculateBigNumberService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity android:name=".SQLiteExampleActivity" />
         <activity android:name=".DialogsExampleActivity" />
         <activity android:name=".FragmentExampleActivity" />
         <activity android:name=".CalledWithIntentActivity" />

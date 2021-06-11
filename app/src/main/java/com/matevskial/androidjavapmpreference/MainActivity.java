@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Button fragmentExampleButton;
     private Button dialogsExampleButton;
     private Button sqliteExampleButton;
+    private Button serviceExampleButton;
 
     /**
      * Predefined methods like this are called for the setup of the activity
@@ -40,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         fragmentExampleButton = findViewById(R.id.fragmentExampleButton);
         dialogsExampleButton = findViewById(R.id.dialogsExampleButton);
         sqliteExampleButton = findViewById(R.id.sqliteExampleButton);
+        serviceExampleButton = findViewById(R.id.serviceExampleButton);
 
         constraintExampleButton.setOnClickListener(v -> {
             Intent intent = new Intent(this, ConstraintExampleActivity.class);
@@ -73,6 +75,11 @@ public class MainActivity extends AppCompatActivity {
         
         sqliteExampleButton.setOnClickListener(v -> {
             Intent intent = new Intent(this, SQLiteExampleActivity.class);
+            startActivity(intent);
+        });
+
+        serviceExampleButton.setOnClickListener(v -> {
+            Intent intent = new Intent(this, ServiceExampleActivity.class);
             startActivity(intent);
         });
     }
